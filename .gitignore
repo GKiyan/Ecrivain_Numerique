@@ -1,0 +1,12 @@
+# Build outputs
+*.o
+main
+
+# Generated text
+text.txt
+
+# IDE / OS
+.idea/
+.vscode/
+cmake-build-*/
+.DS_Store
